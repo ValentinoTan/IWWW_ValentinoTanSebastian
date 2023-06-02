@@ -1,0 +1,22 @@
+.container-fluid {
+    padding: 0;
+}
+
+.navbar {
+margin: 0;
+}
+
+.navbar-nav {
+display: flex;
+justify-content: flex-end;
+margin-right: 0;
+}
+#kartu{
+    transition: transform 0.3s ease;
+}
+#kartu:hover{
+    transform: scale(1.1);
+    
+}
+
+
